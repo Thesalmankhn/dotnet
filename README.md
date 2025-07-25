@@ -1,2 +1,2 @@
 # dotnet7
-dotnet7 app
+dotnet8 app
